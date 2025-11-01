@@ -29,17 +29,18 @@ client
     index.js
     package.json
 
-# Express backend
-#├── server/                 
-#│   ├── models/
-#│   │   ├── User.js
-#│   │   └── Search.js
-#│   ├── routes.js
-#│   ├── passport.js
-#│   ├── index.js
-#│   └── package.json
-#├── screenshots/            # Visual proof     
-#└── README.md
+# Express backend  
+#├── server/                   
+#│   ├── models/  
+#│   │   ├── User.js  
+#│   │   └── Search.js  
+#│   ├── routes.js  
+#│   ├── passport.js  
+#│   ├── index.js  
+#│   └── package.json  
+#├── screenshots/                  
+#└── README.md  
+
 
 ## Setup Instructions
 Prerequisites
