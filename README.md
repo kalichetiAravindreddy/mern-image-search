@@ -18,16 +18,16 @@ APIs:
 Unsplash API
 Google OAuth 2.0
 
-###  Project Structure
-# React frontend
-mern-image-search
-client                 
-  public
-  src
-    App.js
-    App.css
-    index.js
-    package.json
+###  Project Structure  
+# React frontend  
+mern-image-search/  
+├── client/                  
+│   ├── public/  
+│   ├── src/  
+│   │   ├── App.js  
+│   │   ├── App.css  
+│   │   └── index.js  
+│   └── package.json  
 
 # Express backend  
 #├── server/                   
