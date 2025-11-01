@@ -58,8 +58,8 @@ Create .env file in server/ folder:
 MONGO_URI=mongodb://localhost:27017/mern-image-search
 
 # OAuth - Google
-GOOGLE_CLIENT_ID=your_google_client_id
-GOOGLE_CLIENT_SECRET=your_google_client_secret
+GOOGLE_CLIENT_ID=your_google_client_id  
+GOOGLE_CLIENT_SECRET=your_google_client_secret  
 
 # Unsplash API
 UNSPLASH_ACCESS_KEY=your_unsplash_access_key
@@ -68,8 +68,8 @@ UNSPLASH_ACCESS_KEY=your_unsplash_access_key
 SESSION_SECRET=your_session_secret
 
 # URLs
-CLIENT_URL=http://localhost:3000
-SERVER_URL=http://localhost:5000
+CLIENT_URL=http://localhost:3000  
+SERVER_URL=http://localhost:5000  
 
 git clone https://github.com/username/mern-image-search.git
 cd mern-image-search
@@ -84,8 +84,8 @@ npm install
 npm start
 
 Access Application
-Frontend: http://localhost:3000
-Backend: http://localhost:5000
+Frontend: http://localhost:3000  
+Backend: http://localhost:5000  
 
 ## API Endpoints
 Authentication
@@ -102,12 +102,12 @@ GET /api/top-searches - Get top 5 searches
 
 GET /api/history - Get user search history
 
-## visual proof
-check the screenshots folder for:
-1.login.png
-2.top-searches.png
-3.Search-results.png
-4.Search-history.png
+## visual proof  
+check the screenshots folder for:  
+1.login.png  
+2.top-searches.png  
+3.Search-results.png  
+4.Search-history.png  
 
-done by
-aravind reddy 
+done by  
+   ~ aravind reddy   
