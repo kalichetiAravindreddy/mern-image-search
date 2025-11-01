@@ -30,16 +30,16 @@ client
     package.json
 
 # Express backend
-├── server/                 
-│   ├── models/
-│   │   ├── User.js
-│   │   └── Search.js
-│   ├── routes.js
-│   ├── passport.js
-│   ├── index.js
-│   └── package.json
-├── screenshots/            # Visual proof     
-└── README.md
+#├── server/                 
+#│   ├── models/
+#│   │   ├── User.js
+#│   │   └── Search.js
+#│   ├── routes.js
+#│   ├── passport.js
+#│   ├── index.js
+#│   └── package.json
+#├── screenshots/            # Visual proof     
+#└── README.md
 
 ## Setup Instructions
 Prerequisites
